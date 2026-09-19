@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "download_url": "https://github.com/mrpelyx/phonemapper/releases/download/v1.0.1/PhoneMapper-1.0.1.zip",
+  "sha256": "4fb35279258166397e633725180f6007efa3f7f2bdbdde169f3cc4b39b54a181",
+  "mandatory": false,
+  "notes": "Rotacion automatica al abrir el juego, ventana redimensionable con el raton y ajuste correcto a la pantalla."
+}
