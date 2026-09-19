@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/mrpelyx/phonemapper/releases/download/v1.0.1/PhoneMapper-1.0.1.zip",
-  "sha256": "4fb35279258166397e633725180f6007efa3f7f2bdbdde169f3cc4b39b54a181",
+  "version": "1.0.2",
+  "download_url": "https://github.com/mrpelyx/phonemapper/releases/download/v1.0.2/PhoneMapper-1.0.2.zip",
+  "sha256": "31210077ec98cb534fa471c228b6d9ea5b80fdd3e4b2a0d572b43c5572f1dae5",
   "mandatory": false,
-  "notes": "Rotacion automatica al abrir el juego, ventana redimensionable con el raton y ajuste correcto a la pantalla."
+  "notes": "Macros con editor, pipeta y guardado automatico. Arreglados: M4/M5 y rueda no respetaban el comportamiento del control, WASD se quedaba tocando solo, suspender el raton bloqueaba los clics, el disparo se confundia con el lobby y congelaba el aim, y la ventana abria diminuta."
 }
