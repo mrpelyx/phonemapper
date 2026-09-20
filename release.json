@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/mrpelyx/phonemapper/releases/download/v1.0.2/PhoneMapper-1.0.2.zip",
-  "sha256": "31210077ec98cb534fa471c228b6d9ea5b80fdd3e4b2a0d572b43c5572f1dae5",
+  "version": "1.0.3",
+  "download_url": "https://github.com/mrpelyx/phonemapper/releases/download/v1.0.3/PhoneMapper-1.0.3.zip",
+  "sha256": "346c899f573bc15381d6e50462da01b5dff731cf46997ecca19b2b3e582867d7",
   "mandatory": false,
-  "notes": "Macros con editor, pipeta y guardado automatico. Arreglados: M4/M5 y rueda no respetaban el comportamiento del control, WASD se quedaba tocando solo, suspender el raton bloqueaba los clics, el disparo se confundia con el lobby y congelaba el aim, y la ventana abria diminuta."
+  "notes": "Arregla la actualizacion automatica: una copia instalada no encontraba su propio actualizador y el boton Update Now no hacia nada. Esta es la ultima version que hay que instalar a mano."
 }
