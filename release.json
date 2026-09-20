@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "download_url": "https://github.com/mrpelyx/phonemapper/releases/download/v1.0.5/PhoneMapper-1.0.5.zip",
-  "sha256": "a1aa08cb3377d0e39c3470f656b4fa09dec319d7b3043df4f9f44a719c7c0f50",
+  "version": "1.0.8",
+  "download_url": "https://github.com/mrpelyx/phonemapper/releases/download/v1.0.8/PhoneMapper-1.0.8.zip",
+  "sha256": "c51d3dbbf6ef8f11841f8ad4a79d76b4d2a36480358655e4ada12da7d0a14ff9",
   "mandatory": false,
-  "notes": "Arreglado el boton de actualizar: la app no se cerraba al ceder el paso al actualizador y se quedaba en Installing... para siempre. Ahora se aparta sola, y si algo la retiene, el actualizador le pide que se cierre en vez de rendirse."
+  "notes": "Aim con zona local separada de WASD, giros sin descartar movimientos al reiniciar el toque y controles X/Y con flechas. Respeta el desbloqueo manual del cursor. Validar en tu juego; 41 comprobaciones automaticas superadas."
 }
