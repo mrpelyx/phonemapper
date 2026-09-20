@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/mrpelyx/phonemapper/releases/download/v1.0.3/PhoneMapper-1.0.3.zip",
-  "sha256": "346c899f573bc15381d6e50462da01b5dff731cf46997ecca19b2b3e582867d7",
+  "version": "1.0.4",
+  "download_url": "https://github.com/mrpelyx/phonemapper/releases/download/v1.0.4/PhoneMapper-1.0.4.zip",
+  "sha256": "25a1d0a4302d5f7461cac64c51907408f440dee2cee15beee31fc7cfa6ae7ff3",
   "mandatory": false,
-  "notes": "Arregla la actualizacion automatica: una copia instalada no encontraba su propio actualizador y el boton Update Now no hacia nada. Esta es la ultima version que hay que instalar a mano."
+  "notes": "Una sola tecla para apuntar, que esconde el raton y activa el aim y al pulsarla otra vez lo devuelve. Arreglados: los atajos ya no se tragan el teclado fuera del juego, el disparo sobrevive al suspend, los dedos del telefono se reciclan y nunca se comparten, Alt-Tab ya no vuelve a bloquear el raton, y cerrar la app ya no deja adb corriendo."
 }
